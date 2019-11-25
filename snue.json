@@ -1,0 +1,86 @@
+{
+    "소확행":{
+        "phone":"02-3356-8301",
+        "address":["서울시 관악구 봉천동 1605-9","서울시 관악구 관악로12길 38"],
+        "sns":{
+            "blog":{
+                "site":["http://blog.naver.com/PostView.nhn?blogId=alisha1112&logNo=221554540346&parentCategoryNo=&categoryNo=1&viewDate=&isShowPopularPosts=true&from=search"]
+            }
+        }
+    },
+    "오후의 과일":{
+        "phone":"02-877-5700",
+        "address":["서울시 관악구 봉천동 1599-4"],
+        "sns":{
+            "diningcode":{
+                "score": 61,
+                "like": 90,
+                "eval": [3.7,10],
+                "tag": ["예쁜","분위기좋은","앤틱한","데이트","모임"]
+            }
+        }
+    },
+    "서울테이블":{
+        "phone":"02-889-5526",
+        "address":["서울시 관악구 봉천동 1604-6"],
+        "sns":{
+            "diningcode":{
+                "score": 54,
+                "like": 20,
+                "eval": [4.0,6],
+                "tag": ["인스타감성","분위기좋은","감성적인","데이트","소개팅","간식"]
+            }
+        }
+    },
+    "커피나무":{
+        "phone":"02-878-3444",
+        "address":["서울시 관악구 남부순환로 1844"],
+        "sns":{
+            "blog":{
+                "site": ["https://nemib.tistory.com/11", "https://tryitnow.tistory.com/455"]
+            }
+        }
+    },
+    "가온길":{
+        "phone":"02-877-5859",
+        "address":["서울시 관악구 봉천동 851-3, 2층"],
+        "sns":{
+            "blog":{
+                "site": ["https://colorlessideas.tistory.com/260"]
+            }
+        }
+    },
+    "카페프레임":{
+        "phone":"02-6082-1049",
+        "address":["서울시 관악구 관악로14길 94"],
+        "sns":{
+            "siksin":{
+                "eval": [4.0, 1]
+            }
+        }
+    },
+    "연리지화":{
+        "phone":"02-6104-3513",
+        "address":["서울시 관악구 남부순환로226길 12, 2층", "서울시 관악구 봉천동 1599-1, 2층"],
+        "sns":{
+            "siksin":{
+                "eval": [0, 0]
+            }
+        }
+    },
+    "티라노커피":{
+        "phone":"010-8807-2285",
+        "address":["서울시 관악구 봉천동 1613-7","서울시 관악구 남부순환로230길 39"],
+        "sns":{
+            "diningcode":{
+                "score": 52,
+                "like": 10,
+                "eval": [3.5,4],
+                "tag": ["로스터리","분위기좋은","클래식한분위기","데이트","소개팅","송년회"]
+            },
+            "siksin":{
+                "eval":[4.4, 8]
+            }
+        }
+    }
+}
